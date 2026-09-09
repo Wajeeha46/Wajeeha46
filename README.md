@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Wajeeha 👋
 
-<!--
-**Wajeeha46/Wajeeha46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSCS graduate (Queen Mary College, Lahore, 2022–2026), working across mobile and backend development.
 
-Here are some ideas to get you started:
+I build with **Flutter/Dart** on the frontend and **NestJS/TypeScript** on the backend, with **PostgreSQL**, **Firebase**, and **REST APIs**. Comfortable across the stack — from UI to auth to database design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I've worked on
+- **CoRide** — a carpooling/ride-sharing app built as a 3-person final year project (Flutter rider/driver app, Flutter admin app, NestJS backend). Worked across both frontend and backend, sharing most features with a teammate. *(Repo is private — writeup coming soon.)*
+- **QuickHire** — a hiring/work-opportunity app, solo project built with Flutter and Firebase.
+- **Library Management System** — solo academic project in C++, covering OOP design, borrowing/returning logic, and data validation.
+- **Bookly** — an online bookstore frontend, solo project in HTML/CSS/JavaScript.
+
+#### Skills
+`Flutter` `Dart` `NestJS` `TypeScript` `PostgreSQL` `Firebase` `C++` `JavaScript` `HTML/CSS`
+
+#### Connect
+[LinkedIn](https://linkedin.com/in/wajeeha-t-75394642a)
